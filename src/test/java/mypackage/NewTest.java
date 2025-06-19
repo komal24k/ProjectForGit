@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.println("Hi Hello");
+	  System.out.println("Hello");
   }
   
   @Test
@@ -15,5 +15,5 @@ public class NewTest {
 
 	  WebDriver driver=new ChromeDriver();
 	  driver.get("https://ciitstudent.com");
-  }
+ }
 }
