@@ -39,3 +39,4 @@ public class NewTest {
 
 	  WebDriver driver=new ChromeDriver();
 }
+}
