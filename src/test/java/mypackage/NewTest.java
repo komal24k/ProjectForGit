@@ -16,4 +16,9 @@ public class NewTest {
 	  WebDriver driver=new ChromeDriver();
 	  driver.get("https://ciitstudent.com");
  }
+  @Test
+  public void LoginTest2() {
+
+	  WebDriver driver=new ChromeDriver();
+  }  
 }
