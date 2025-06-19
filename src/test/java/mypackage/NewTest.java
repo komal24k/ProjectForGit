@@ -21,4 +21,8 @@ public class NewTest {
 
 	  WebDriver driver=new ChromeDriver();
   }  
+	@Test
+  public void LoginTest3() {
+
+	  WebDriver driver=new ChromeDriver();
 }
