@@ -33,4 +33,9 @@ public class NewTest {
   public void LoginTest4() {
 
 	  WebDriver driver=new ChromeDriver();
-}}
+}
+	@Test
+  public void LoginTest5() {
+
+	  WebDriver driver=new ChromeDriver();
+}
