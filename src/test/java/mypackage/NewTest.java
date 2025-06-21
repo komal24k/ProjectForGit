@@ -16,6 +16,11 @@ public class NewTest {
 	  public void DemoTest() {
 		  System.out.println("Calling Demo Test");
 	  }
+
+	@Test
+	  public void DemoTest1() {
+		  System.out.println("Calling Demo Test");
+	  }
 	  
 
 
