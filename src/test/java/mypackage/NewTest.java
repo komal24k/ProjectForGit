@@ -14,7 +14,10 @@ public class NewTest {
 	
 	@Test
 	  public void DemoTest() {
+
 		  System.out.println("Calling Demo Test1");
+
+		  System.out.println("Calling Demo Test123");
 	  }
 
 	@Test
