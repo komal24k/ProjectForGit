@@ -22,12 +22,12 @@ public class NewTest {
 
 	@Test
 	  public void DemoTest1() {
-		  System.out.println("Calling Demo Test");
+		  System.out.println("Calling Demo Test2");
 	  }
 	
 	@Test
 	  public void DemoTest2() {
-		  System.out.println("Calling Demo Test2");
+		  System.out.println("Calling Demo Test3");
 	  }
 
 
