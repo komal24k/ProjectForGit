@@ -29,10 +29,6 @@ public class NewTest {
 	  public void DemoTest2() {
 		  System.out.println("Calling Demo Test3");
 	  }
-	@Test
-	  public void DemoTest3() {
-		  System.out.println("Calling Demo Test4");
-	  }
-
+	
 
 }
