@@ -17,7 +17,7 @@ public class NewTest {
 
 		  System.out.println("Calling Demo Test1");
 
-		  System.out.println("Calling Demo Test123");
+		 
 	  }
 
 	@Test
